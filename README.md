@@ -1,6 +1,6 @@
 # 子网计算器（Subnet Calculator）
 
-一个单文件的 IP 子网计算工具，全部逻辑（HTML / CSS / JavaScript）内联在一个 `subnet-calculator.html` 中，无任何第三方依赖，双击或直接在浏览器打开即可使用，也可下载后离线使用。
+一个单文件的 IP 子网计算工具，本地内存占用仅150KB,运行速度极快，全部逻辑（HTML / CSS / JavaScript）内联在一个 `subnet-calculator.html` 中，无任何第三方依赖，双击或直接在浏览器打开即可使用，也可下载后离线使用。
 
 ## 功能
 
